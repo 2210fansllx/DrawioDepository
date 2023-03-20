@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T03:07:23.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CnXekReTqwMIEdxBGJOa" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T06:40:34.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hr5ICNdfwpSSw1IegRco" version="21.0.8" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
-    <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,10 +106,10 @@
         <mxCell id="3i3_qJuaZtlP3eawbYPi-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-91" target="3i3_qJuaZtlP3eawbYPi-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3i3_qJuaZtlP3eawbYPi-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-91" target="3i3_qJuaZtlP3eawbYPi-80" edge="1">
+        <mxCell id="3i3_qJuaZtlP3eawbYPi-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-16" target="3i3_qJuaZtlP3eawbYPi-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3i3_qJuaZtlP3eawbYPi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-91" target="3i3_qJuaZtlP3eawbYPi-88" edge="1">
+        <mxCell id="3i3_qJuaZtlP3eawbYPi-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-120" target="3i3_qJuaZtlP3eawbYPi-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3i3_qJuaZtlP3eawbYPi-91" value="Problem&lt;br&gt;问题记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -142,28 +142,25 @@
         <mxCell id="3i3_qJuaZtlP3eawbYPi-116" value="多对一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="977" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3i3_qJuaZtlP3eawbYPi-120" value="按项目外键和巡查小组外键合并" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867" y="1200" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-1" value="id&lt;br&gt;name 姓名&lt;br&gt;phone 电话号码&lt;br&gt;identity 身份证号&lt;br&gt;age 年龄&lt;br&gt;bank 开户银行&lt;br&gt;bank_card 银行卡号&lt;br&gt;education 学历专业&lt;br&gt;title 职称专业&lt;br&gt;certificate 注册类证件&lt;br&gt;profession 从事专业&lt;br&gt;professional_years 专业年限&lt;br&gt;experience 项目经历&lt;br&gt;unit 隶属单位" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="300" y="865" width="225" height="225" as="geometry" />
+          <mxGeometry x="280" y="850" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-3" value="id&lt;br&gt;name 姓名&lt;br&gt;type 类型&lt;br&gt;district 辖区&lt;br&gt;address 地址&lt;br&gt;employer 建设单位&lt;br&gt;constructor 施工单位&lt;br&gt;supervisor 监理单位&lt;br&gt;patrol_status 项目活动状态&lt;br&gt;regulator 监管部门&lt;br&gt;contacts 联系人&lt;br&gt;visual_progress 形象进度" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="865" width="205" height="205" as="geometry" />
+          <mxGeometry x="1250" y="792.5" width="205" height="205" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-4" value="id&lt;br&gt;team_type 组别&lt;br&gt;leader 组长名" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="687" y="745" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-5" value="id&lt;br&gt;name 姓名&lt;br&gt;patrol_date 活动时间&lt;br&gt;status 活动状态&lt;br&gt;client 委托方" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="957" y="580" width="160" height="160" as="geometry" />
+          <mxGeometry x="960" y="630" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6FW02JHhIPws_gqXCJ_j-1" target="3i3_qJuaZtlP3eawbYPi-73">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FW02JHhIPws_gqXCJ_j-1" target="3i3_qJuaZtlP3eawbYPi-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="837" y="900" as="sourcePoint" />
-            <mxPoint x="887" y="850" as="targetPoint" />
+            <mxPoint x="580" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3i3_qJuaZtlP3eawbYPi-78" target="6FW02JHhIPws_gqXCJ_j-5">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3i3_qJuaZtlP3eawbYPi-78" target="6FW02JHhIPws_gqXCJ_j-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="837" y="900" as="sourcePoint" />
             <mxPoint x="887" y="850" as="targetPoint" />
@@ -182,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-11" value="id&lt;br&gt;type 问题类型&lt;br&gt;severity 严重程度&lt;br&gt;description 问题描述&lt;br&gt;detail 详细描述&lt;br&gt;photo_url 检查照片&lt;br&gt;rectify 整改要求&lt;br&gt;deadline 整改时限&lt;br&gt;supervision_unit 督办单位&lt;br&gt;finder 问题发现人" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1067" y="1175" width="230" height="230" as="geometry" />
+          <mxGeometry x="967" y="1150" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6FW02JHhIPws_gqXCJ_j-11" target="3i3_qJuaZtlP3eawbYPi-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -191,13 +188,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-13" value="id&lt;br&gt;type 类别&lt;br&gt;description 问题描述&lt;br&gt;regulations 相关法规标准&lt;br&gt;terms 标准内容或条款&lt;br&gt;responsible_parties 责任主体&lt;br&gt;remarks 备注" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="567" y="1180" width="140" height="140" as="geometry" />
+          <mxGeometry x="547" y="1180" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6FW02JHhIPws_gqXCJ_j-13" target="3i3_qJuaZtlP3eawbYPi-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="837" y="1220" as="sourcePoint" />
             <mxPoint x="887" y="1170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3i3_qJuaZtlP3eawbYPi-91" target="3i3_qJuaZtlP3eawbYPi-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867" y="1140" as="sourcePoint" />
+            <mxPoint x="867" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i3_qJuaZtlP3eawbYPi-120" value="按同项目且同巡查小组合并" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="767" y="1190" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3i3_qJuaZtlP3eawbYPi-91" target="6FW02JHhIPws_gqXCJ_j-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="927" y="1110" as="sourcePoint" />
+            <mxPoint x="1137" y="925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-16" value="Project和Problem的表关系可以不设置外键，在Problem字段加一个ProjectName属性即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="990" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
