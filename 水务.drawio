@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T01:13:28.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F-vcXqoH11X6WIv5oo2S" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T01:15:28.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="x-q3yUKevPlM2fXMmsEh" version="21.1.2" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="270" y="850" width="235" height="235" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-3" value="id&lt;br&gt;name 姓名&lt;br&gt;type 类型&lt;br&gt;district 辖区&lt;br&gt;address 地址&lt;br&gt;longitude 经度&lt;br&gt;latitude 纬度&lt;br&gt;employer 建设单位&lt;br&gt;builder 施工单位&lt;br&gt;supervisor 监理单位&lt;br&gt;patrol_status 项目活动状态&lt;br&gt;regulator 监管部门&lt;br&gt;contacts 联系人&lt;br&gt;visual_progress 形象进度&lt;br&gt;allocation_status 分配状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="786.25" width="217.5" height="217.5" as="geometry" />
+          <mxGeometry x="1250" y="778.13" width="233.75" height="233.75" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-4" value="id&lt;br&gt;leader 组长名" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="677" y="720" width="120" height="120" as="geometry" />
