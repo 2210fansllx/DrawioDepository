@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T05:33:47.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gmyTq-UUhk6PyY3AZKNM" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T08:59:12.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fcsY9YdH4m6tkgsY4SZ1" version="21.1.4" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -124,11 +124,11 @@
         <mxCell id="3i3_qJuaZtlP3eawbYPi-96" value="&lt;i&gt;Basis&lt;/i&gt;&lt;br&gt;检查依据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="547" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3i3_qJuaZtlP3eawbYPi-100" value="多对多&lt;br&gt;中间表命名为&lt;br&gt;inspection_task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="950" y="880" width="120" height="85" as="geometry" />
+        <mxCell id="3i3_qJuaZtlP3eawbYPi-100" value="多对多&lt;br&gt;中间表命名为&lt;br&gt;task_team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="947" y="880" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3i3_qJuaZtlP3eawbYPi-102" value="一对多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="867" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3i3_qJuaZtlP3eawbYPi-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-105" target="3i3_qJuaZtlP3eawbYPi-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,19 +142,19 @@
         <mxCell id="3i3_qJuaZtlP3eawbYPi-116" value="多对一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="977" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-1" value="id&lt;br&gt;name 姓名&lt;br&gt;phone 电话号码&lt;br&gt;identity 身份证号&lt;br&gt;age 年龄&lt;br&gt;bank 开户银行&lt;br&gt;bank_card 银行卡号&lt;br&gt;education 学历专业&lt;br&gt;title 职称专业&lt;br&gt;certificate 注册类证件&lt;br&gt;profession 从事专业&lt;br&gt;professional_years 专业年限&lt;br&gt;experience 项目经历&lt;br&gt;unit 隶属单位&lt;br&gt;allocation_status 分配状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="270" y="850" width="235" height="235" as="geometry" />
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-1" value="id&lt;br&gt;name 姓名&lt;br&gt;phone 电话号码&lt;br&gt;identity 身份证号&lt;br&gt;age 年龄&lt;br&gt;bank 开户银行&lt;br&gt;bank_card 银行卡号&lt;br&gt;education 学历专业&lt;br&gt;title 职称专业&lt;br&gt;certificate 注册类证件&lt;br&gt;profession 从事专业&lt;br&gt;professional_years 专业年限&lt;br&gt;experience 项目经历&lt;br&gt;unit 隶属单位" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="776.88" width="235" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-3" value="id&lt;br&gt;name 姓名&lt;br&gt;type 类型&lt;br&gt;district 辖区&lt;br&gt;address 地址&lt;br&gt;longitude 经度&lt;br&gt;latitude 纬度&lt;br&gt;employer 建设单位&lt;br&gt;builder 施工单位&lt;br&gt;supervisor 监理单位&lt;br&gt;patrol_status 项目活动状态&lt;br&gt;regulator 监管部门&lt;br&gt;contacts 联系人&lt;br&gt;visual_progress 形象进度&lt;br&gt;allocation_status 分配状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-3" value="id&lt;br&gt;name 姓名&lt;br&gt;type 类型&lt;br&gt;district 辖区&lt;br&gt;address 地址&lt;br&gt;longitude 经度&lt;br&gt;latitude 纬度&lt;br&gt;employer 建设单位&lt;br&gt;builder 施工单位&lt;br&gt;supervisor 监理单位&lt;br&gt;patrol_status 项目活动状态&lt;br&gt;regulator 监管部门&lt;br&gt;contacts 联系人&lt;br&gt;visual_progress 形象进度" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1250" y="778.13" width="233.75" height="233.75" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-4" value="id&lt;br&gt;leader 组长名" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="677" y="720" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-5" value="id&lt;br&gt;name 姓名&lt;br&gt;patrol_date 活动时间&lt;br&gt;status 活动状态&lt;br&gt;client 委托方&lt;br&gt;contract 所属合同" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-5" value="id&lt;br&gt;name 姓名&lt;br&gt;patrol_date 活动时间&lt;br&gt;status 活动状态&lt;br&gt;client 委托方&lt;br&gt;contract 所属合同&lt;br&gt;experts 分配专家&lt;br&gt;projects 分配项目" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="960" y="630" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3i3_qJuaZtlP3eawbYPi-73" edge="1">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3i3_qJuaZtlP3eawbYPi-73" edge="1" source="6FW02JHhIPws_gqXCJ_j-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="895" as="sourcePoint" />
             <mxPoint x="570" y="910" as="targetPoint" />
@@ -214,8 +214,29 @@
         <mxCell id="6FW02JHhIPws_gqXCJ_j-16" value="Project和Problem的表关系可以不设置外键，在Problem字段加一个ProjectName属性即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1057" y="975" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Gz7VECKnWUEL1W8TSBVt-1" value="&lt;h1&gt;分配状态&lt;/h1&gt;&lt;p&gt;当管理员新建巡查活动并将专家和项目批量导入进巡查活动中时，不产生表的关联，而是将&lt;span style=&quot;background-color: initial;&quot;&gt;被导入的专家和项目的分配状态由未分配变为分配中方便后续专家、专家组、巡查项目匹配时只显示出该巡查活动涉及的专家和项目&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="292.5" y="650" width="190" height="150" as="geometry" />
+        <mxCell id="WpO0a5useHiPfVXdxLCM-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WpO0a5useHiPfVXdxLCM-4" target="3i3_qJuaZtlP3eawbYPi-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpO0a5useHiPfVXdxLCM-4" value="template&lt;br&gt;巡查模板" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpO0a5useHiPfVXdxLCM-13" value="id&lt;br&gt;basis_ids &lt;br&gt;检查依据ID列表" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1049.3700000000001" width="121.25" height="121.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WpO0a5useHiPfVXdxLCM-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpO0a5useHiPfVXdxLCM-13" target="WpO0a5useHiPfVXdxLCM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282.5" y="1171.25" as="sourcePoint" />
+            <mxPoint x="332.5" y="1121.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpO0a5useHiPfVXdxLCM-17" value="一对多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpO0a5useHiPfVXdxLCM-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WpO0a5useHiPfVXdxLCM-4" target="3i3_qJuaZtlP3eawbYPi-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1140" as="sourcePoint" />
+            <mxPoint x="530" y="1090" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
