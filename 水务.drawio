@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T01:31:05.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gEFUzheQWjciDGMPNdZY" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T08:06:18.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HoVc9SLyC5Vaf3cyEDVl" version="21.2.1" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -143,18 +143,18 @@
           <mxGeometry x="977" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-1" value="id&lt;br&gt;name 姓名&lt;br&gt;phone 电话号码&lt;br&gt;identity 身份证号&lt;br&gt;age 年龄&lt;br&gt;bank 开户银行&lt;br&gt;bank_card 银行卡号&lt;br&gt;education 学历专业&lt;br&gt;title 职称专业&lt;br&gt;certificate 注册类证件&lt;br&gt;profession 从事专业&lt;br&gt;professional_years 专业年限&lt;br&gt;experience 项目经历&lt;br&gt;unit 隶属单位" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="776.88" width="235" height="235" as="geometry" />
+          <mxGeometry x="445" y="620" width="235" height="235" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-3" value="id&lt;br&gt;name 姓名&lt;br&gt;type 类型&lt;br&gt;district 辖区&lt;br&gt;address 地址&lt;br&gt;longitude 经度&lt;br&gt;latitude 纬度&lt;br&gt;employer 建设单位&lt;br&gt;builder 施工单位&lt;br&gt;supervisor 监理单位&lt;br&gt;patrol_status 项目活动状态&lt;br&gt;regulator 监管部门&lt;br&gt;contacts 联系人&lt;br&gt;visual_progress 形象进度" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="778.13" width="233.75" height="233.75" as="geometry" />
+          <mxGeometry x="1217" y="778.13" width="233.75" height="233.75" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-4" value="id&lt;br&gt;leader 组长名" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="677" y="720" width="120" height="120" as="geometry" />
+          <mxGeometry x="700" y="755" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-5" value="id&lt;br&gt;name 姓名&lt;br&gt;patrol_date 活动时间&lt;br&gt;status 活动状态&lt;br&gt;client 委托方&lt;br&gt;contract 所属合同&lt;br&gt;expert_ids 专家ID列表&lt;br&gt;project_ids 项目ID列表" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="960" y="630" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-1" target="3i3_qJuaZtlP3eawbYPi-73" edge="1">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-1" target="3i3_qJuaZtlP3eawbYPi-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="895" as="sourcePoint" />
             <mxPoint x="570" y="910" as="targetPoint" />
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-11" value="id&lt;br&gt;project_name 所属项目&lt;br&gt;type 问题类型&lt;br&gt;severity 严重程度&lt;br&gt;description 问题描述&lt;br&gt;detail 详细描述&lt;br&gt;photo_url 检查照片&lt;br&gt;rectify 整改要求&lt;br&gt;deadline 整改时限&lt;br&gt;supervision_unit 督办单位&lt;br&gt;finder 问题发现人" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="967" y="1150" width="230" height="230" as="geometry" />
+          <mxGeometry x="947" y="1130" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-11" target="3i3_qJuaZtlP3eawbYPi-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-13" value="id&lt;br&gt;category 依据种类&lt;br&gt;code_one 一级索引&lt;br&gt;code_two 二级索引&lt;br&gt;code_three 三级索引&lt;br&gt;type_one 一级标题（类别）&lt;br&gt;type_two 二级标题（类别）&lt;br&gt;type_three 三级标题（类别）&lt;br&gt;description 问题描述&lt;br&gt;regulations 相关法规标准&lt;br&gt;terms 标准内容或条款&lt;br&gt;responsible_parties 责任主体&lt;br&gt;labels 标签&lt;br&gt;remarks 备注" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="493.25" y="1171.25" width="227.5" height="227.5" as="geometry" />
+          <mxGeometry x="560" y="1170" width="227.5" height="227.5" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-13" target="3i3_qJuaZtlP3eawbYPi-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -221,7 +221,7 @@
           <mxGeometry x="360" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WpO0a5useHiPfVXdxLCM-13" value="id&lt;br&gt;name 模板名&lt;br&gt;basis_ids &lt;br&gt;检查依据ID列表" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="190" y="1049.3700000000001" width="121.25" height="121.25" as="geometry" />
+          <mxGeometry x="218.75" y="1049.3700000000001" width="121.25" height="121.25" as="geometry" />
         </mxCell>
         <mxCell id="WpO0a5useHiPfVXdxLCM-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WpO0a5useHiPfVXdxLCM-13" target="WpO0a5useHiPfVXdxLCM-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -236,6 +236,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1140" as="sourcePoint" />
             <mxPoint x="530" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ksE6TDxvOeJAKDXx2OtY-1" target="3i3_qJuaZtlP3eawbYPi-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-1" value="FeedbackBasis&lt;br&gt;依据反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-2" value="id&lt;br&gt;name 反馈者姓名&lt;br&gt;content 内容&lt;br&gt;status 反馈状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1250" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksE6TDxvOeJAKDXx2OtY-2" target="ksE6TDxvOeJAKDXx2OtY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1224.37" as="sourcePoint" />
+            <mxPoint x="380" y="1174.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-7" value="多对一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="1170.62" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-8" value="请假报备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="951.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-10" value="id&lt;br&gt;name 请假者姓名&lt;br&gt;content 报备内容&lt;br&gt;start 请假开始时间&lt;br&gt;end 请假结束时间" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="921.88" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ksE6TDxvOeJAKDXx2OtY-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ksE6TDxvOeJAKDXx2OtY-10" target="ksE6TDxvOeJAKDXx2OtY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1040" as="sourcePoint" />
+            <mxPoint x="500" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
