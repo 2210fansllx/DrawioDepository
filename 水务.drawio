@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T02:50:52.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8vDWSfqyClvlv2bRshZo" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T01:50:56.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p1CpzgE71k4ZaYR9V2ZB" version="21.2.1" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
             <mxPoint x="887" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FW02JHhIPws_gqXCJ_j-11" value="id&lt;br&gt;project_name 所属项目&lt;br&gt;type 问题类型&lt;br&gt;severity 严重程度&lt;br&gt;description 问题描述&lt;br&gt;detail 详细描述&lt;br&gt;photo_url 检查照片&lt;br&gt;rectify 整改要求&lt;br&gt;deadline 整改时限&lt;br&gt;supervision_unit 督办单位&lt;br&gt;finder 问题发现人&lt;br&gt;readed 是否已读" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6FW02JHhIPws_gqXCJ_j-11" value="id&lt;br&gt;project_name 所属项目&lt;br&gt;type 问题类型&lt;br&gt;severity 严重程度&lt;br&gt;description 问题描述&lt;br&gt;detail 详细描述&lt;br&gt;terms 引用条款&lt;br&gt;terms_url 引用条款（图片）&lt;br&gt;photo_url 检查照片&lt;br&gt;rectify 整改要求&lt;br&gt;deadline 整改时限&lt;br&gt;supervision_unit 督办单位&lt;br&gt;finder 问题发现人&lt;br&gt;readed 是否已读" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="947" y="1130" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6FW02JHhIPws_gqXCJ_j-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="6FW02JHhIPws_gqXCJ_j-11" target="3i3_qJuaZtlP3eawbYPi-91" edge="1">
