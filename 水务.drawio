@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T02:50:41.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B3wmqRFRD9q9xcNzbZ6N" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T03:12:30.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HhYD8pnIS3bCrarG1Law" version="21.2.1" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -267,6 +267,12 @@
             <mxPoint x="450" y="1040" as="sourcePoint" />
             <mxPoint x="500" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fjzap5--C68IlPVdFCPT-1" value="Account&lt;br&gt;账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjzap5--C68IlPVdFCPT-2" value="Account&lt;br&gt;账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="795" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
