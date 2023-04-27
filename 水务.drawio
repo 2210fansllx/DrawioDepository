@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T06:26:43.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jjrtMCsc5prEv5LsPueH" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T08:11:22.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="r-FaJ60soeFCXraeZcz0" version="21.2.3" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
           <mxGeometry x="947" y="880" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3i3_qJuaZtlP3eawbYPi-102" value="一对多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="867" y="1000" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3i3_qJuaZtlP3eawbYPi-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3i3_qJuaZtlP3eawbYPi-105" target="3i3_qJuaZtlP3eawbYPi-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -214,9 +214,6 @@
         <mxCell id="6FW02JHhIPws_gqXCJ_j-16" value="Project和Problem的表关系可以不设置外键，在Problem字段加一个ProjectName属性即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1057" y="975" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WpO0a5useHiPfVXdxLCM-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="WpO0a5useHiPfVXdxLCM-4" target="3i3_qJuaZtlP3eawbYPi-80" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WpO0a5useHiPfVXdxLCM-4" value="template&lt;br&gt;巡查模板" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
@@ -230,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WpO0a5useHiPfVXdxLCM-17" value="一对多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1010" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WpO0a5useHiPfVXdxLCM-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WpO0a5useHiPfVXdxLCM-4" target="3i3_qJuaZtlP3eawbYPi-96" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -327,6 +324,12 @@
         </mxCell>
         <mxCell id="Epfq57NGZjBYGGiwLkms-19" value="项目1、2、3、4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="847" y="2495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Epfq57NGZjBYGGiwLkms-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3i3_qJuaZtlP3eawbYPi-80" target="WpO0a5useHiPfVXdxLCM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1030" as="sourcePoint" />
+            <mxPoint x="830" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
