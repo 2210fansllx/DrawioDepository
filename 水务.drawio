@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T03:18:22.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xv7FA7DQEVq_kPw4wo_l" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T03:18:30.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Q7om14HfxwKMb-d7T2tO" version="21.2.9" type="github">
   <diagram name="第 1 页" id="9z1iVQIgPW0uV3iC-OwV">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -373,7 +373,7 @@
         <mxCell id="YRQZuNiblVkjQWqMYMtu-14" value="业主" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRQZuNiblVkjQWqMYMtu-30" value="“参与”&lt;br&gt;手机端全部功能，个人（专家）信息修改功能，巡检活动页面只读，政策法规页面只读" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="YRQZuNiblVkjQWqMYMtu-30" value="“参与”&lt;br&gt;+手机端全部功能，个人（专家）信息修改功能，巡检活动页面只读，政策法规页面只读" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="1820" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YRQZuNiblVkjQWqMYMtu-31" value="“控制”&lt;br&gt;全部权限" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
